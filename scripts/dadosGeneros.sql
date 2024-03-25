@@ -1,0 +1,16 @@
+INSERT INTO `generos` (`nome`, `descricao`) VALUES
+('Ficção Científica', 'Narrativas que exploram futuros imaginários e tecnologias avançadas.'),
+('Romance', 'Histórias de amor e relacionamentos pessoais, frequentemente com um final feliz.'),
+('Mistério', 'Enredos que envolvem crimes, segredos e intrigas, geralmente com um elemento de suspense.'),
+('Terror', 'Narrativas que provocam medo e ansiedade, muitas vezes com elementos sobrenaturais ou ameaças desconhecidas.'),
+('Fantasia', 'Mundos e criaturas imaginárias, frequentemente com magia e aventuras épicas.'),
+('Não-ficção', 'Livros baseados em fatos reais, como biografias, ensaios e relatos históricos.'),
+('Autoajuda', 'Obras que oferecem conselhos e técnicas para o autodesenvolvimento e a superação pessoal.'),
+('Policial', 'Narrativas centradas em investigações de crimes e solução de mistérios, frequentemente com detetives ou agentes policiais como protagonistas.'),
+('Aventura', 'Histórias emocionantes que envolvem viagens, descobertas e desafios enfrentados pelos personagens.'),
+('História', 'Relatos baseados em eventos históricos e figuras do passado, frequentemente recontados com elementos ficcionais.'),
+('Biografia', 'Narrativas que contam a história da vida de uma pessoa, geralmente escritas por um terceiro.'),
+('Jovem Adulto', 'Livros voltados para adolescentes, muitas vezes explorando temas de crescimento, identidade e relacionamentos.'),
+('Drama', 'Narrativas que exploram conflitos humanos e emocionais, frequentemente com um tom sério e reflexivo.'),
+('Poema', 'Composições líricas que exploram emoções, pensamentos e experiências do autor.'),
+('Comédia', 'Obras que visam entreter e fazer rir, geralmente com piadas, sátiras ou situações engraçadas.');
